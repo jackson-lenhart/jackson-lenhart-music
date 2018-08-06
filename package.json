@@ -1,0 +1,15 @@
+{
+  "name": "jackson-lenhart-music",
+  "version": "1.0.0",
+  "description": "Home page for my music content/updates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Jackson Lenhart",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
