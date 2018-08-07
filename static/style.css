@@ -2,6 +2,19 @@
   text-align: center;
 }
 
+.navbar {
+  text-align: center;
+}
+
+.tab {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+#home {
+  padding-left: 20px;
+}
+
 #shows {
-  padding-left: 20px
+  padding-left: 20px;
 }
